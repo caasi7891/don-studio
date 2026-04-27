@@ -1,0 +1,10 @@
+.env
+recordings/
+failed-uploads/
+logs/
+bin/ffmpeg.exe
+bin/ffprobe.exe
+bin/*.exe
+*.lnk
+.omc/state/
+.omc/drafts/
